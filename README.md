@@ -1,16 +1,27 @@
-## Oie! Eu sou a Ligia.
-<div> 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/ligigoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ligia-gomes-8b2b43200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef8787&height=120&section=header"/>
 
-<div style="display: inline_block"><br>
-<p align="left">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc0bd&size=30&center=true&width=1000&lines=Olá,+meu+nome+é+Ligia+Gomes;Estudante+de+ciência+da+computação+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ligiagomess&show_icons=true&count_private=true&hide_border=true&title_color=f2a09d&icon_color=ffc0bd&text_color=FFFFFF&bg_color=000000" alt="Ligia Gomes github stats"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiagomess&layout=compact&hide_border=true&title_color=f2a09d&text_color=ffc0bd&bg_color=000000"/>
 </div>
+
+##
+
+<div align="center">
+<a href="https://insagram.com/ligigoms" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23c25d8b?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:cmp.1a.ligia.gomes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23d32632?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linkedin/in/ligia-gomes-8b2b43200" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" ></a>
+</div>
+
+
+### Estudando no momento:
+![HTML Badge](https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=f67113&style=for-the-badge)
+![CSS Badge](https://img.shields.io/badge/CSS-000000?logo=css3&logoColor=014ba0&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=ffed6b&style=for-the-badge)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef8787&height=120&section=footer"/>
