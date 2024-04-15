@@ -4,7 +4,7 @@
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ligiagomess&show_icons=true&count_private=true&hide_border=true&title_color=f1666d&icon_color=dc143c&text_color=FFFFFF&bg_color=000000" alt="Ligia Gomes github stats"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiagomess&layout=compact&hide_border=true&title_color=f1666d&text_color=dc143c&bg_color=000000"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiagomess&layout=compact&hide_border=true&title_color=f1666d&text_color=FFFFFF&bg_color=000000"/>
 </div>
 
 ##
