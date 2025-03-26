@@ -10,8 +10,6 @@
 ##
 
 <div align="center">
-<a href="https://instagram.com/ligigoms" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23c25d8b?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:ligia.gomes@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23d32632?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ligia-gomes-8b2b43200/" target="_blank">
